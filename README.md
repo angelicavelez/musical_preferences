@@ -24,5 +24,5 @@ Prueba tres hipótesis:
   * Hipótesis 3: preferencias de género en Springfield y Shelbyville
 * Conclusiones
 
-Librerías usadas
+### Librerías usadas
 pandas
